@@ -18,11 +18,11 @@ We’ll be using GitHub’s GUI client to simplify version control.
 2. Go to **File > Clone Repository…**  
 3. Paste the repository URL:  
    ```bash
-   https://github.com/<YourOrg>/<RepoName>.git
+   https://github.com/3rdinf/OSUT.git
    ```
 4. For the **local path**, choose your Arma Reforger projects folder. Typically:  
    ```bash
-   Documents/My Games/ArmaReforger/Workbench/Projects
+   C:\Users\<user>\Documents\My Games\ArmaReforgerWorkbench\addons
    ```
 5. Click **Clone**.  
 
