@@ -1,0 +1,8 @@
+GameProject {
+ ID "OSUT"
+ GUID "66525CC345BFA9BF"
+ TITLE "OSUT"
+ Dependencies {
+  "58D0FB3206B6F859"
+ }
+}
