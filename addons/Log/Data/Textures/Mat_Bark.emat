@@ -1,0 +1,17 @@
+MatPBRBasic {
+ SpecularMul 0.5
+ RoughnessScale 0.867
+ MetalnessScale 0
+ GlobalLayerBCRMap "{7210B6031681E695}addons/Log/Data/Textures/Bark001_4K-JPG_Color.edds"
+ GlobalLayerNoiseUVScale 0.981
+ BCRMap "{7210B6031681E695}addons/Log/Data/Textures/Bark001_4K-JPG_Color.edds"
+ NormalPower 2
+ NMOMap "{9F4A494DEE725B56}addons/Log/Data/Textures/Bark001_4K-JPG_NormalGL.edds"
+ UVSrcGlobalMaps "UV set 2"
+ GlobalMapsUVTransform MatUVTransform "{6653191DA277381C}" {
+  TilingU 2.1
+  TilingV 1.1
+ }
+ UVSrcDetailNormalMap "UV set 2"
+ HeightMap "{688F56AE05F04CDE}addons/Log/Data/Textures/Bark001_4K-JPG_Roughness.edds"
+}
