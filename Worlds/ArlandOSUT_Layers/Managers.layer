@@ -100,3 +100,67 @@ SCR_FiringRangeManager : "{4E79356AF4204F88}Prefabs/Props/Military/Training/Firi
   }
  }
 }
+$grp StaticModelEntity : "{5BDA0DA9FCFC98B9}Prefabs/Structures/Infrastructure/Pavements/ConcreteKerb_01/ConcreteKerb_01_2m_entry.et" {
+ {
+  coords 1405.502 -0.115 2377.911
+  angleX 53.534
+  angleY 84.161
+  angleZ -0.841
+ }
+ {
+  coords 1405.69 -0.121 2375.901
+  angleX 60.827
+  angleY 83.942
+  angleZ -1.025
+ }
+ {
+  coords 1405.311 -0.116 2379.914
+  angleX 54.246
+  angleY 84.143
+  angleZ -0.855
+ }
+ {
+  coords 1402.061 -0.105 2375.742
+  angleX 69.493
+  angleY 83.501
+  angleZ -1.426
+ }
+ {
+  coords 1401.679 -0.132 2379.755
+  angleX 62.912
+  angleY 83.859
+  angleZ -1.098
+ }
+ {
+  coords 1401.871 -0.11 2377.75
+  angleX 62.2
+  angleY 83.889
+  angleZ -1.071
+ }
+ {
+  coords 1399.179 -0.103 2375.649
+  angleX 67.664
+  angleY 83.62
+  angleZ -1.315
+ }
+ {
+  coords 1398.798 -0.13 2379.661
+  angleX 61.083
+  angleY 83.932
+  angleZ -1.034
+ }
+ {
+  coords 1398.989 -0.109 2377.658
+  angleX 60.371
+  angleY 83.959
+  angleZ -1.011
+ }
+}
+GenericEntity : "{85C71F17C37D274C}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x6.et" {
+ coords 1386.372 36.546 2375.982
+ angleY -5.301
+}
+SCR_IndestructibleEnvironmentalEntity : "{AE73676ABA995907}Prefabs/Structures/BuildingParts/Entry/Entry_Block_Platform_01_3x12.et" {
+ coords 1390.94 36.54 2376
+ angleY 84.514
+}
