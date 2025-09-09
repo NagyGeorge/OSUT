@@ -1,3 +1,6 @@
+SCR_IndestructibleEnvironmentalEntity : "{07FBB9A2F51332E4}Prefabs/Rocks/Granite/Granite_BeachStone_01.et" {
+ coords 1388.925 0 1877.193
+}
 SCR_FiringRangeManager : "{4E79356AF4204F88}Prefabs/Props/Military/Training/FiringRangeBasePrefab.et" {
  coords 1355.302 10.319 1880.251
  {
